@@ -1,0 +1,14 @@
+New log file opened at Fri May 22 13:04:36 ART 2015 by 7448@Toto-PC
+Taking next connection to: 2923
+New client attempting to connect on port: 2925-2923
+  Address = /192.168.56.1:2923
+This client on port 2925 has uuid 03fde507-e69d-4b51-a823-e2b155fd34d5 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-03fde507-e69d-4b51-a823-e2b155fd34d5
+Taking next connection to: 2923
+Checking to see if clients are empty...
+No non-daemon clients connected after 3 min. Shutting down.
+1 daemon clients are connected.
+Server socket thread exiting.
+1 clients open, will close them...
+All client sockets have been closed.
+Closing the 7448@Toto-PC logs at Fri May 22 13:07:49 ART 2015, goodbye.
